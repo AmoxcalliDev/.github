@@ -80,7 +80,7 @@ Aquí todos somos bienvenidos. Respeto, colaboración y buena onda son obligator
 ## 🌎 Comunidad
 
 - 💬 **Discussions**: Pregunta, propón, debate
-- 🐛 **Issues**: Reporta bugs o sugiere features
+- 🐛 **Issues**: Reporta bugs o sugiere funcionalidades
 - 📢 **Twitter/X**: Síguenos para estar al tanto (próximamente)
 - 📺 **Discord**: Únete a la comunidad (próximamente)
 
@@ -93,8 +93,8 @@ Aquí todos somos bienvenidos. Respeto, colaboración y buena onda son obligator
 
 ## 📚 Recursos
 
-- [Guía de Contribución](./CONTRIBUTING.md) *(próximamente)*
-- [Código de Conducta](./CODE_OF_CONDUCT.md) *(próximamente)*
+- [Guía de Contribución](../CONTRIBUTING.md) - Cómo colaborar en nuestros proyectos
+- [Código de Conducta](../CODE_OF_CONDUCT.md) - Nuestras reglas de convivencia
 - [Wiki del Proyecto](../../wiki) *(próximamente)*
 
 ## 🤝 Contribuidores
