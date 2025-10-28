@@ -396,7 +396,7 @@ Cuando revises PRs de otros:
 - 💬 Abre una [Discussion](https://github.com/AmoxcalliDev/.github/discussions)
 - 🐛 Crea un [Issue](https://github.com/AmoxcalliDev/.github/issues)
 - 💬 Comunícate por Discord *(próximamente)*
-- � Contacta al equipo *(próximamente)*
+- 📧 Contacta al equipo: **contact@amoxcalli.dev** *(próximamente)*
 
 ## 🙏 Agradecimientos
 
@@ -408,6 +408,6 @@ Cada contribución, sin importar su tamaño, es valiosa para nosotros. ¡Gracias
 
 **"El código es mejor cuando se comparte"**
 
-Hecho con 💚 en México 🇲🇽
+💚 Hecho con amor desde México 🇲🇽
 
 </div>
