@@ -191,32 +191,15 @@ git push origin tu-rama
 # Crea un Pull Request desde GitHub
 ```
 
-#### 📝 Template de Pull Request
+Cuando crees tu PR, automáticamente se cargará nuestro template. Asegúrate de completar toda la información relevante:
 
-Cuando crees tu PR, incluye:
+- Descripción clara de los cambios
+- Tipo de cambio (bug fix, feature, docs, etc.)
+- Issue relacionado (si aplica)
+- Cómo probaste los cambios
+- Checklist de revisión
 
-```markdown
-## Descripción
-Breve descripción de los cambios realizados
-
-## Tipo de Cambio
-- [ ] Corrección de bug
-- [ ] Nueva funcionalidad
-- [ ] Cambio que rompe compatibilidad (breaking change)
-- [ ] Documentación
-
-## ¿Cómo se probó?
-Describe cómo probaste tus cambios
-
-## Checklist
-- [ ] Mi código sigue el estilo del proyecto
-- [ ] He revisado mi propio código
-- [ ] He comentado mi código donde es necesario
-- [ ] He actualizado la documentación
-- [ ] Mis cambios no generan nuevas advertencias (warnings)
-- [ ] He agregado tests que prueban mi corrección/funcionalidad
-- [ ] Los tests nuevos y existentes pasan correctamente
-```
+> 💡 **Tip**: Revisa el template completo en [pull_request_template.md](.github/pull_request_template.md)
 
 ## 💅 Estándares de Código
 

@@ -1,0 +1,164 @@
+name: 🐛 Reporte de Bug
+description: Reporta un bug o comportamiento inesperado
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 🐛 Reporte de Bug
+        
+        Gracias por tomarte el tiempo de reportar este bug. Tu reporte nos ayuda a mejorar AmoxcalliDev.
+        
+        Por favor, completa la información a continuación para ayudarnos a entender y resolver el problema.
+
+  - type: checkboxes
+    id: pre-check
+    attributes:
+      label: Antes de reportar
+      description: Por favor, verifica lo siguiente antes de continuar
+      options:
+        - label: Busqué en los issues existentes y no encontré uno similar
+          required: true
+        - label: Estoy usando la versión más reciente del proyecto
+          required: true
+        - label: Leí la documentación y el problema persiste
+          required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción del Bug
+      description: Una descripción clara y concisa del bug
+      placeholder: Describe qué está mal y qué esperabas que sucediera
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Pasos para Reproducir
+      description: Pasos detallados para reproducir el comportamiento
+      placeholder: |
+        1. Ve a '...'
+        2. Haz clic en '...'
+        3. Desplázate hasta '...'
+        4. Observa el error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamiento Esperado
+      description: Describe qué esperabas que sucediera
+      placeholder: Debería...
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Comportamiento Actual
+      description: Describe qué sucede actualmente
+      placeholder: En lugar de eso, sucede...
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Capturas de Pantalla
+      description: Si aplica, agrega capturas de pantalla para ayudar a explicar el problema
+      placeholder: Arrastra y suelta imágenes aquí
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severidad
+      description: ¿Qué tan severo es este bug?
+      options:
+        - Baja - Problema cosmético o menor
+        - Media - Afecta funcionalidad pero hay workaround
+        - Alta - Afecta funcionalidad importante sin workaround
+        - Crítica - El sistema no funciona o pérdida de datos
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Versión
+      description: ¿Qué versión del proyecto estás usando?
+      placeholder: "ej. v1.2.3, commit abc123, o 'main'"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Sistema Operativo
+      description: ¿En qué sistema operativo ocurre el bug?
+      multiple: true
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - iOS
+        - Android
+        - Otro
+
+  - type: input
+    id: browser
+    attributes:
+      label: Navegador (si aplica)
+      description: ¿En qué navegador y versión ocurre?
+      placeholder: "ej. Chrome 120, Firefox 121, Safari 17"
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Detalles del Entorno
+      description: Información adicional sobre tu entorno (versión de Node, Python, dependencias, etc.)
+      placeholder: |
+        - Node.js: v20.10.0
+        - npm: 10.2.3
+        - Dependencias relevantes...
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs o Mensajes de Error
+      description: Si hay logs o mensajes de error, pégalos aquí
+      render: shell
+      placeholder: Pega aquí los logs o mensajes de error
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Contexto Adicional
+      description: Cualquier otra información relevante sobre el problema
+      placeholder: Agrega cualquier otro contexto sobre el problema aquí
+
+  - type: checkboxes
+    id: willing
+    attributes:
+      label: Disposición para Ayudar
+      description: ¿Estarías dispuesto a ayudar con este issue?
+      options:
+        - label: Estoy dispuesto a enviar un Pull Request para arreglar este bug
+        - label: Puedo ayudar a probar la solución
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        ## 🤝 Próximos Pasos
+        
+        Después de enviar este reporte:
+        1. Un mantenedor revisará y etiquetará el issue
+        2. Podríamos solicitar información adicional
+        3. Te notificaremos cuando trabajemos en una solución
+        
+        ¡Gracias por contribuir a AmoxcalliDev! 🇲🇽

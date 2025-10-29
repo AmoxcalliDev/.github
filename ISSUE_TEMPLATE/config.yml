@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/orgs/AmoxcalliDev/discussions
+    about: Preguntas, ideas y discusiones generales
+  - name: 🔒 Reporte de Seguridad
+    url: https://github.com/AmoxcalliDev/.github/blob/main/SECURITY.md
+    about: Reporta vulnerabilidades de seguridad de forma privada
+  - name: 📞 Soporte
+    url: https://github.com/AmoxcalliDev/.github/blob/main/SUPPORT.md
+    about: ¿Necesitas ayuda? Consulta nuestra guía de soporte
+  - name: 🤝 Guía de Contribución
+    url: https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md
+    about: Aprende cómo contribuir a nuestros proyectos
