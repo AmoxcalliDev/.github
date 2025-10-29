@@ -1,0 +1,188 @@
+name: 💡 Solicitud de Funcionalidad
+description: Sugiere una idea o nueva funcionalidad para este proyecto
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 💡 Solicitud de Funcionalidad
+        
+        ¡Gracias por sugerir una nueva funcionalidad! Nos encanta escuchar ideas de la comunidad.
+        
+        Por favor, completa la información a continuación para ayudarnos a entender tu propuesta.
+
+  - type: checkboxes
+    id: pre-check
+    attributes:
+      label: Antes de solicitar
+      description: Por favor, verifica lo siguiente antes de continuar
+      options:
+        - label: Busqué en los issues existentes y no encontré una solicitud similar
+          required: true
+        - label: Esta funcionalidad no existe actualmente en el proyecto
+          required: true
+        - label: He leído la documentación del proyecto
+          required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Tipo de Funcionalidad
+      description: ¿Qué tipo de funcionalidad estás solicitando?
+      options:
+        - Nueva funcionalidad
+        - Mejora a funcionalidad existente
+        - Optimización de rendimiento
+        - Mejora de documentación
+        - Mejora de experiencia de usuario (UX)
+        - Otro
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema o Necesidad
+      description: ¿Tu solicitud está relacionada con un problema? Descríbelo
+      placeholder: |
+        Siempre me frustra cuando...
+        Es difícil hacer X porque...
+        Sería útil poder...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solución Propuesta
+      description: Describe la solución que te gustaría ver implementada
+      placeholder: |
+        Me gustaría que el proyecto pudiera...
+        La funcionalidad debería funcionar de esta manera...
+        Propongo agregar...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas Consideradas
+      description: ¿Has considerado soluciones o funcionalidades alternativas?
+      placeholder: |
+        También consideré...
+        Otra opción sería...
+        Como workaround temporal se podría...
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Prioridad
+      description: ¿Qué tan importante es esta funcionalidad para ti?
+      options:
+        - Baja - Sería bueno tenerlo
+        - Media - Me ayudaría significativamente
+        - Alta - Es importante para mi caso de uso
+        - Crítica - Bloqueante para mi proyecto
+    validations:
+      required: true
+
+  - type: dropdown
+    id: audience
+    attributes:
+      label: ¿A quién beneficiaría?
+      description: ¿Quién se beneficiaría de esta funcionalidad?
+      multiple: true
+      options:
+        - Usuarios finales
+        - Desarrolladores/Contribuidores
+        - Mantenedores
+        - Empresas/Organizaciones
+        - Toda la comunidad
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: Casos de Uso
+      description: Describe algunos casos de uso específicos para esta funcionalidad
+      placeholder: |
+        1. Como usuario, quiero poder... para...
+        2. Como desarrollador, necesito... porque...
+        3. Cuando trabajo en..., sería útil...
+    validations:
+      required: true
+
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Mockups o Ejemplos
+      description: Si tienes mockups, diagramas o ejemplos de código, compártelos aquí
+      placeholder: Arrastra y suelta imágenes o pega código de ejemplo
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Ideas de Implementación (Opcional)
+      description: Si tienes ideas sobre cómo implementar esto técnicamente, compártelas
+      placeholder: |
+        Esto podría implementarse usando...
+        Sugiero agregar una nueva clase/función...
+        Podría funcionar similar a...
+
+  - type: textarea
+    id: breaking
+    attributes:
+      label: Cambios que Rompen Compatibilidad
+      description: ¿Esta funcionalidad requeriría cambios que rompan compatibilidad?
+      placeholder: |
+        No, es retrocompatible
+        Sí, requeriría cambios en...
+        Podría afectar a...
+
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencias o Prerequisitos
+      description: ¿Esta funcionalidad depende de otras funcionalidades o proyectos?
+      placeholder: |
+        Requiere primero implementar #123
+        Necesita actualizar la dependencia X
+        Depende del proyecto Y
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Contexto Adicional
+      description: Cualquier otra información relevante
+      placeholder: |
+        Referencias a proyectos similares...
+        Links a documentación...
+        Ejemplos en otros proyectos...
+
+  - type: checkboxes
+    id: willing
+    attributes:
+      label: Disposición para Ayudar
+      description: ¿Estarías dispuesto a ayudar con esta funcionalidad?
+      options:
+        - label: Estoy dispuesto a enviar un Pull Request para implementar esto
+        - label: Puedo ayudar con el diseño/especificación
+        - label: Puedo ayudar a probar la implementación
+        - label: Puedo ayudar con la documentación
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        ## 🤝 Próximos Pasos
+        
+        Después de enviar esta solicitud:
+        1. La comunidad y mantenedores discutirán la propuesta
+        2. Evaluaremos viabilidad, prioridad y alineación con el proyecto
+        3. Si es aprobada, será agregada al roadmap
+        4. Te notificaremos sobre decisiones y actualizaciones
+        
+        ¡Gracias por ayudarnos a mejorar AmoxcalliDev! 🇲🇽
