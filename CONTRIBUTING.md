@@ -199,7 +199,7 @@ Cuando crees tu PR, automáticamente se cargará nuestro template. Asegúrate de
 - Cómo probaste los cambios
 - Checklist de revisión
 
-> 💡 **Tip**: Revisa el template completo en [pull_request_template.md](.github/pull_request_template.md)
+> 💡 **Tip**: Revisa el template completo en [pull_request_template.md](./pull_request_template.md)
 
 ## 💅 Estándares de Código
 
