@@ -17,6 +17,14 @@ GitHub da un tratamiento especial al repositorio `.github` en las organizaciones
 ├── CONTRIBUTING.md             # Guía de contribución
 ├── SECURITY.md                 # Política de seguridad
 ├── SUPPORT.md                  # Guía de soporte
+├── pull_request_template.md    # Template de pull requests
+├── .github/                    # Carpeta anidada para templates
+│   └── ISSUE_TEMPLATE/         # Templates de issues
+│       ├── bug_report.yml      # Formulario de reporte de bugs
+│       ├── bug_report.md       # Template markdown de bugs
+│       ├── feature_request.yml # Formulario de solicitud de features
+│       ├── feature_request.md  # Template markdown de features
+│       └── config.yml          # Configuración de templates
 └── profile/
     └── README.md               # Perfil público de la organización
 ```
