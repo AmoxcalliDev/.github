@@ -82,7 +82,7 @@ Aquí todos somos bienvenidos. Respeto, colaboración y buena onda son obligator
 - 💬 **Discussions**: Pregunta, propón, debate
 - 🐛 **Issues**: Reporta bugs o sugiere funcionalidades
 - 📢 **Twitter/X**: Síguenos para estar al tanto (próximamente)
-- 📺 **Discord**: Únete a la comunidad (próximamente)
+- 📺 **Discord**: [Únete a la comunidad](https://discord.amoxcalli.dev)
 
 ## 🌮 Fun Facts
 
