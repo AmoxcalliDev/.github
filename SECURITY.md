@@ -37,7 +37,7 @@ Mientras tanto, puedes crear un Issue privado contactando a los mantenedores dir
 
 #### 3. Contacto Directo
 
-- 💬 Contacta a los mantenedores por Discord *(próximamente)*
+- 💬 Contacta a los mantenedores por [Discord](https://discord.amoxcalli.dev)
 - 💬 Envía un mensaje privado a través de GitHub
 
 ### 📝 Información a Incluir en tu Reporte
