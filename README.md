@@ -1,12 +1,12 @@
-# 🏛️ Repositorio `.github` de AmoxcalliDev
+# 🏛️ Repositorio `.github` de Amoxcalli
 
 > *Archivos de comunidad centralizados para toda la organización*
 
-Este es el repositorio especial `.github` de **AmoxcalliDev**, que contiene los archivos de comunidad y políticas que se aplican automáticamente a todos los repositorios de nuestra organización.
+Este es el repositorio especial `.github` de **Amoxcalli**, que contiene los archivos de comunidad y políticas que se aplican automáticamente a todos los repositorios de nuestra organización.
 
 ## 🎯 ¿Qué es este repositorio?
 
-GitHub da un tratamiento especial al repositorio `.github` en las organizaciones. Los archivos aquí definidos sirven como **valores predeterminados** para todos los repositorios de AmoxcalliDev que no tengan sus propios archivos específicos.
+GitHub da un tratamiento especial al repositorio `.github` en las organizaciones. Los archivos aquí definidos sirven como **valores predeterminados** para todos los repositorios de Amoxcalli que no tengan sus propios archivos específicos.
 
 ## 📁 Estructura del Repositorio
 
@@ -34,7 +34,7 @@ GitHub da un tratamiento especial al repositorio `.github` en las organizaciones
 ### 📜 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
 Define las reglas de convivencia y comportamiento esperado en todos nuestros proyectos.
 
-**Se aplica a:** Todos los repositorios de AmoxcalliDev
+**Se aplica a:** Todos los repositorios de Amoxcalli
 - Estándares de comportamiento profesional
 - Proceso de reporte de incidentes
 - Consecuencias por violaciones
@@ -71,13 +71,13 @@ Guía sobre dónde y cómo obtener ayuda.
 - Comunidad y valores
 
 ### 🌮 [profile/README.md](./profile/README.md)
-Perfil público que se muestra en la página principal de la organización AmoxcalliDev.
+Perfil público que se muestra en la página principal de la organización Amoxcalli.
 
 ## 🔄 ¿Cómo Funciona?
 
 ### Aplicación Automática
 
-GitHub aplica automáticamente estos archivos a cualquier repositorio de AmoxcalliDev que **NO** tenga su propio archivo:
+GitHub aplica automáticamente estos archivos a cualquier repositorio de Amoxcalli que **NO** tenga su propio archivo:
 
 **Ejemplo:**
 ```
@@ -120,7 +120,7 @@ No necesitas copiar y pegar los mismos archivos en cada repo.
 Los repositorios pueden tener sus propias reglas específicas si es necesario.
 
 ### ✅ Claridad
-Los contribuidores saben qué esperar en cualquier proyecto de AmoxcalliDev.
+Los contribuidores saben qué esperar en cualquier proyecto de Amoxcalli.
 
 ## 🔗 Cómo Hacer Referencia a Estos Archivos
 
@@ -131,7 +131,7 @@ Al crear un nuevo repositorio, puedes simplemente **no crear** estos archivos y 
 ```markdown
 # Guía de Contribución
 
-Este proyecto sigue la [Guía de Contribución de AmoxcalliDev](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md).
+Este proyecto sigue la [Guía de Contribución de Amoxcalli](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md).
 
 Por favor, lee las guías completas antes de contribuir.
 ```
@@ -143,7 +143,7 @@ Si ya tienes archivos propios, actualízalos para referenciar las guías central
 ```markdown
 # Guía de Contribución
 
-Este proyecto sigue la [Guía de Contribución de AmoxcalliDev](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md).
+Este proyecto sigue la [Guía de Contribución de Amoxcalli](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md).
 
 ## Guías Específicas de Este Proyecto
 
@@ -154,7 +154,7 @@ Este proyecto sigue la [Guía de Contribución de AmoxcalliDev](https://github.c
 
 ### ¿Quién puede actualizar?
 
-Los mantenedores y administradores de la organización AmoxcalliDev.
+Los mantenedores y administradores de la organización Amoxcalli.
 
 ### Proceso de Actualización
 
@@ -189,7 +189,7 @@ Para preguntas sobre estos archivos de comunidad:
 
 - 💬 [Discussions](https://github.com/orgs/AmoxcalliDev/discussions)
 - 📧 **[contact@amoxcalli.dev](mailto:contact@amoxcalli.dev)**
-- 💬 Discord *(próximamente)*
+- 💬 [Discord](https://discord.amoxcalli.dev)
 
 ## 🤝 Contribuir a Este Repositorio
 
@@ -208,7 +208,7 @@ Para preguntas sobre estos archivos de comunidad:
 - [Política de Seguridad](./SECURITY.md)
 - [Soporte](./SUPPORT.md)
 
-## 🏛️ Sobre AmoxcalliDev
+## 🏛️ Sobre Amoxcalli
 
 **Amoxcalli** (del náhuatl: Casa de libros, biblioteca) es nuestra organización open source donde compartimos conocimiento y construimos herramientas para la comunidad.
 

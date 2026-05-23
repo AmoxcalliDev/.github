@@ -1,6 +1,6 @@
-# 🤝 Guía de Contribución - AmoxcalliDev
+# 🤝 Guía de Contribución - Amoxcalli
 
-¡Gracias por tu interés en contribuir a AmoxcalliDev! 🎉
+¡Gracias por tu interés en contribuir a Amoxcalli! 🎉
 
 Esta guía te ayudará a entender cómo puedes colaborar en nuestros proyectos Open Source.
 
@@ -21,60 +21,11 @@ Este proyecto se rige por nuestro [Código de Conducta](./CODE_OF_CONDUCT.md). A
 
 ## 🔗 Uso en Otros Repositorios
 
-Esta guía de contribución aplica para **todos los repositorios** de AmoxcalliDev. Si estás creando un nuevo repositorio o actualizando uno existente, debes hacer referencia a estos archivos centralizados.
-
-### Para Repositorios Nuevos
-
-Al crear un nuevo repositorio, agrega un archivo `CONTRIBUTING.md` en la raíz con el siguiente contenido:
-
-```markdown
-# Guía de Contribución
-
-Este proyecto sigue la [Guía de Contribución de AmoxcalliDev](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md).
-
-Por favor, lee las guías completas antes de contribuir.
-
-## Enlaces Importantes
-
-- [Guía de Contribución](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md)
-- [Código de Conducta](https://github.com/AmoxcalliDev/.github/blob/main/CODE_OF_CONDUCT.md)
-```
-
-### Para Repositorios Existentes
-
-Si ya tienes un repositorio con su propio `CONTRIBUTING.md`, actualízalo para hacer referencia a estas guías:
-
-```markdown
-# Guía de Contribución
-
-Este proyecto sigue la [Guía de Contribución de AmoxcalliDev](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md).
-
-## Guías Específicas de Este Proyecto
-
-[Aquí puedes agregar guías específicas del repositorio si es necesario]
-
-## Guías Generales
-
-Para conocer las guías completas de contribución de AmoxcalliDev, visita:
-- [Guía de Contribución](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md)
-- [Código de Conducta](https://github.com/AmoxcalliDev/.github/blob/main/CODE_OF_CONDUCT.md)
-```
-
-### Ventaja de Este Enfoque
-
-✅ **Consistencia**: Todos los proyectos siguen las mismas reglas
-
-✅ **Mantenimiento fácil**: Actualizas un solo archivo y aplica para todos
-
-✅ **Claridad**: Los contribuidores saben qué esperar en cualquier repo
-
-✅ **Automático**: Si un repo no tiene `CONTRIBUTING.md`, GitHub usa automáticamente el de `.github`
-
-> 💡 **Nota**: GitHub automáticamente usa los archivos de este repositorio `.github` como predeterminados para todos los repos de la organización que no tengan sus propios archivos.
+Esta guía de contribución aplica para **todos los repositorios** de Amoxcalli. Si estás creando un nuevo repositorio o actualizando uno existente, debes hacer referencia a estos archivos centralizados.
 
 ## 🚀 ¿Cómo Puedo Contribuir?
 
-Hay muchas formas de contribuir a AmoxcalliDev:
+Hay muchas formas de contribuir a Amoxcalli:
 
 ### 💻 Contribuciones de Código
 
@@ -315,53 +266,17 @@ def get(id):
 2. Asegúrate de que realmente es un bug
 3. Recolecta toda la información necesaria
 
-### Template de Bug Report
-
-```markdown
-## Descripción del Bug
-Descripción clara y concisa del bug
-
-## Pasos para Reproducir
-1. Ve a '...'
-2. Haz clic en '...'
-3. Desplázate hasta '...'
-4. Observa el error
-
-## Comportamiento Esperado
-Lo que debería suceder
-
-## Comportamiento Actual
-Lo que realmente sucede
-
-## Screenshots
-Si aplica, agrega capturas de pantalla
-
-## Entorno
-- OS: [ej. macOS, Windows, Linux]
-- Navegador: [ej. Chrome, Firefox]
-- Versión: [ej. 22]
-
-## Contexto Adicional
-Cualquier otra información relevante
-```
+> 💡 **Tip**: Revisa el template completo en [.github/ISSUE_TEMPLATE/bug_report.md](./.github/ISSUE_TEMPLATE/bug_report.md)
 
 ## 💡 Sugerir Mejoras
 
-### Template para Solicitud de Funcionalidad
+### Antes de Sugerir
 
-```markdown
-## ¿Tu solicitud de funcionalidad está relacionada con un problema?
-Descripción clara del problema. Ej: "Siempre me frustra cuando [...]"
+1. Revisa que no exista una sugerencia similar
+2. Asegúrate de que tu sugerencia sea clara y específica
+3. Proporciona contexto y ejemplos si es posible
 
-## Describe la Solución que Te Gustaría
-Descripción clara de lo que quieres que suceda
-
-## Describe Alternativas que Consideraste
-Descripción de soluciones o funcionalidades alternativas
-
-## Contexto Adicional
-Cualquier otro contexto, capturas de pantalla, etc.
-```
+> 💡 **Tip**: Revisa el template completo en [.github/ISSUE_TEMPLATE/feature_request.md](./.github/ISSUE_TEMPLATE/feature_request.md)
 
 ## 🔍 Revisión de Código
 
@@ -378,12 +293,12 @@ Cuando revises PRs de otros:
 
 - 💬 Abre una [Discussion](https://github.com/AmoxcalliDev/.github/discussions)
 - 🐛 Crea un [Issue](https://github.com/AmoxcalliDev/.github/issues)
-- 💬 Comunícate por Discord *(próximamente)*
+- 💬 Comunícate por [Discord](https://discord.amoxcalli.dev)
 - 📧 Contacta al equipo: **[contact@amoxcalli.dev](mailto:contact@amoxcalli.dev)**
 
 ## 🙏 Agradecimientos
 
-Cada contribución, sin importar su tamaño, es valiosa para nosotros. ¡Gracias por hacer que AmoxcalliDev sea cada vez mejor!
+Cada contribución, sin importar su tamaño, es valiosa para nosotros. ¡Gracias por hacer que Amoxcalli sea cada vez mejor!
 
 ---
 

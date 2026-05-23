@@ -1,65 +1,14 @@
-# 📜 Código de Conducta de AmoxcalliDev
+# 📜 Código de Conducta de Amoxcalli
 
 ## 🎯 Nuestro Compromiso
 
-En AmoxcalliDev, nos comprometemos a proporcionar un ambiente profesional y respetuoso para todos los colaboradores, sin importar su nivel de experiencia, educación, nacionalidad, o capacidades diferentes (físicas, cognitivas, sensoriales o de cualquier otra índole).
+En Amoxcalli, nos comprometemos a proporcionar un ambiente profesional y respetuoso para todos los colaboradores, sin importar su nivel de experiencia, educación, nacionalidad, o capacidades diferentes (físicas, cognitivas, sensoriales o de cualquier otra índole).
 
 Nos comprometemos a actuar e interactuar de manera profesional, manteniendo una comunidad técnica enfocada en el código y el aprendizaje colaborativo.
 
 ## 🔗 Aplicación en Todos los Repositorios
 
-Este Código de Conducta aplica para **todos los repositorios** de AmoxcalliDev, tanto públicos como privados.
-
-### Para Repositorios Nuevos
-
-Al crear un nuevo repositorio, agrega un archivo `CODE_OF_CONDUCT.md` en la raíz con el siguiente contenido:
-
-```markdown
-# Código de Conducta
-
-Este proyecto se rige por el [Código de Conducta de AmoxcalliDev](https://github.com/AmoxcalliDev/.github/blob/main/CODE_OF_CONDUCT.md).
-
-Todos los participantes deben cumplir con estas normas de convivencia.
-
-## Reportar Incidentes
-
-Para reportar violaciones al código de conducta:
-- 📧 **[conduct@amoxcalli.dev](mailto:conduct@amoxcalli.dev)**
-- 💬 GitHub Issues privados
-- 💬 Discord *(próximamente)*
-
-Lee el [Código de Conducta completo](https://github.com/AmoxcalliDev/.github/blob/main/CODE_OF_CONDUCT.md) para más información.
-```
-
-### Para Repositorios Existentes
-
-Si tu repositorio ya tiene un `CODE_OF_CONDUCT.md`, actualízalo para hacer referencia al código centralizado:
-
-```markdown
-# Código de Conducta
-
-Este proyecto sigue el [Código de Conducta de AmoxcalliDev](https://github.com/AmoxcalliDev/.github/blob/main/CODE_OF_CONDUCT.md).
-
-## Reglas Específicas de Este Proyecto
-
-[Aquí puedes agregar reglas específicas si es necesario]
-
-## Código de Conducta General
-
-Para conocer las reglas completas de convivencia en AmoxcalliDev, consulta el [Código de Conducta completo](https://github.com/AmoxcalliDev/.github/blob/main/CODE_OF_CONDUCT.md).
-```
-
-### Ventajas de Este Sistema
-
-✅ **Uniformidad**: Todos los proyectos siguen las mismas reglas de convivencia
-
-✅ **Actualización centralizada**: Cambias un archivo y aplica para todos
-
-✅ **Transparencia**: Los colaboradores saben qué esperar en cualquier proyecto
-
-✅ **Automático**: GitHub usa estos archivos por defecto si un repo no tiene los suyos
-
-> 💡 **Importante**: Los reportes de incidentes deben hacerse a través de los canales oficiales mencionados en el código de conducta, independientemente del repositorio donde ocurra el incidente.
+Este Código de Conducta aplica para **todos los repositorios** de Amoxcalli, tanto públicos como privados.
 
 ## 🌟 Nuestros Estándares
 
@@ -167,7 +116,7 @@ Las consecuencias por violar el Código de Conducta pueden incluir:
 
 ## 🤝 Valores de la Comunidad
 
-En AmoxcalliDev valoramos:
+En Amoxcalli valoramos:
 
 ### 🌮 **Respeto Profesional**
 Tratamos a todos con respeto. Somos una comunidad técnica donde todos son bienvenidos a colaborar y aprender.
@@ -221,8 +170,8 @@ Las Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplic
 Para preguntas sobre este Código de Conducta:
 
 - 💬 Abre una [Discussion](https://github.com/AmoxcalliDev/.github/discussions)
-- 💬 Comunícate por Discord *(próximamente)*
-- � Contacta a los mantenedores *(próximamente)*
+- 💬 Comunícate por [Discord](https://discord.amoxcalli.dev)
+- 📧 Contacta al equipo: **[contact@amoxcalli.dev](mailto:contact@amoxcalli.dev)**
 
 ---
 

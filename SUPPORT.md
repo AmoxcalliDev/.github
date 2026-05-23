@@ -1,8 +1,8 @@
-# 📞 Soporte - AmoxcalliDev
+# 📞 Soporte - Amoxcalli
 
 ## 👋 ¿Necesitas Ayuda?
 
-¡Bienvenido! Estamos aquí para ayudarte. Esta guía te mostrará cómo obtener soporte para cualquier proyecto de AmoxcalliDev.
+¡Bienvenido! Estamos aquí para ayudarte. Esta guía te mostrará cómo obtener soporte para cualquier proyecto de Amoxcalli.
 
 ## 🎯 Antes de Pedir Ayuda
 
@@ -34,7 +34,7 @@ Para obtener ayuda más rápido, te recomendamos:
 - ✅ Puedes marcar respuestas como solución
 
 **Cómo usarlo:**
-1. Ve a las [Discussions de AmoxcalliDev](https://github.com/orgs/AmoxcalliDev/discussions)
+1. Ve a las [Discussions de Amoxcalli](https://github.com/orgs/AmoxcalliDev/discussions)
 2. Busca si tu pregunta ya fue respondida
 3. Si no, crea una nueva Discussion
 
@@ -59,7 +59,7 @@ Para obtener ayuda más rápido, te recomendamos:
 3. Click en "New Issue"
 4. Elige el template apropiado (Bug Report o Feature Request)
 
-### 3. Discord (Próximamente)
+### 3. Discord
 
 **¿Para qué?** Conversaciones en tiempo real, ayuda rápida, networking
 
@@ -69,7 +69,10 @@ Para obtener ayuda más rápido, te recomendamos:
 - 💻 **#showcase**: Muestra tus proyectos
 - 🎯 **#contribuciones**: Coordinación de contribuciones
 
-**Estado:** 🚧 Próximamente - Estaremos anunciando cuando esté disponible
+**Cómo unirte:**
+1. Ve a [nuestro Discord](https://discord.amoxcalli.dev)
+2. Crea una cuenta o inicia sesión
+3. Lee las reglas y preséntate en #general
 
 ### 4. Correo Electrónico (Para Asuntos Privados)
 
@@ -179,7 +182,7 @@ Depende del canal:
 
 ### ¿Puedo hacer preguntas en español?
 
-¡Por supuesto! AmoxcalliDev es una comunidad mexicana. Puedes usar español o inglés.
+¡Por supuesto! Amoxcalli es una comunidad mexicana. Puedes usar español o inglés.
 
 ### ¿Ofrecen soporte pagado?
 
@@ -188,7 +191,7 @@ No ofrecemos soporte pagado para proyectos open source. Sin embargo, si necesita
 - Desarrollo personalizado
 - Soporte empresarial
 
-Contacta a [ByFruitsDev](https://github.com/ByFruitsDev) para servicios comerciales.
+Contacta con [ByFruits](https://byfruits.dev) para servicios comerciales.
 
 ### ¿Cómo puedo contribuir con documentación?
 
@@ -202,7 +205,7 @@ Contacta a [ByFruitsDev](https://github.com/ByFruitsDev) para servicios comercia
 
 Si necesitas algo específico y urgente:
 - Para proyectos open source: Puedes implementarlo tú mismo y contribuirlo
-- Para proyectos comerciales: Contacta a [ByFruitsDev](https://github.com/ByFruitsDev)
+- Para proyectos comerciales: Contacta a [ByFruits](https://byfruits.dev)
 
 ## 🤝 Obtener Ayuda de la Comunidad
 
@@ -275,7 +278,7 @@ Solo para:
 ### Canales de Contacto
 
 - 📧 **[contact@amoxcalli.dev](mailto:contact@amoxcalli.dev)**
-- 💬 Discord *(próximamente)*
+- 💬 [Discord](https://discord.amoxcalli.dev)
 - 💬 GitHub Discussions (para preguntas públicas)
 
 ## 🌮 Comunidad

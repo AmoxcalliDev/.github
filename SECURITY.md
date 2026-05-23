@@ -1,10 +1,10 @@
-# 🔒 Política de Seguridad - AmoxcalliDev
+# 🔒 Política de Seguridad - Amoxcalli
 
 ## 🎯 Nuestro Compromiso
 
-La seguridad es una prioridad para AmoxcalliDev. Tomamos en serio todas las vulnerabilidades de seguridad y agradecemos a la comunidad por ayudarnos a mantener nuestros proyectos seguros.
+La seguridad es una prioridad para Amoxcalli. Tomamos en serio todas las vulnerabilidades de seguridad y agradecemos a la comunidad por ayudarnos a mantener nuestros proyectos seguros.
 
-> � **Nota sobre versiones**: Cada proyecto puede tener su propia política de versiones soportadas. Consulta el `SECURITY.md` específico del repositorio para información detallada sobre qué versiones reciben actualizaciones de seguridad.
+> 💡 **Nota sobre versiones**: Cada proyecto puede tener su propia política de versiones soportadas. Consulta el `SECURITY.md` específico del repositorio para información detallada sobre qué versiones reciben actualizaciones de seguridad.
 
 ## 🚨 Reportar una Vulnerabilidad
 
@@ -188,7 +188,7 @@ Seguimos los principios de divulgación responsable:
 Para preguntas sobre esta política de seguridad:
 
 - 📧 **[security@amoxcalli.dev](mailto:security@amoxcalli.dev)**
-- 💬 Contacta a los mantenedores por Discord *(próximamente)*
+- 💬 Contacta a los mantenedores por [Discord](https://discord.amoxcalli.dev)
 - 💬 Abre una [Discussion](https://github.com/AmoxcalliDev/.github/discussions) (solo para preguntas generales, NO para reportar vulnerabilidades)
 
 ---
@@ -197,10 +197,10 @@ Para preguntas sobre esta política de seguridad:
 
 **"La seguridad es responsabilidad de todos"**
 
-🔒 Gracias por ayudarnos a mantener AmoxcalliDev seguro
+🔒 Gracias por ayudarnos a mantener Amoxcalli seguro
 
 💚 Hecho con amor desde México 🇲🇽
 
-Última actualización: Octubre 2025
+Última actualización: Mayo 2026
 
 </div>

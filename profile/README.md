@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🏛️ AmoxcalliDev
+# 🏛️ Amoxcalli
 
-### *La Casa del Conocimiento Digital de México*
+### *La Casa del Conocimiento Digital de México y todo el mundo*
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Made in Mexico](https://img.shields.io/badge/Hecho%20en-M%C3%A9xico%20🇲🇽-green.svg)](https://github.com/AmoxcalliDev)
@@ -19,18 +19,18 @@ Somos una comunidad mexicana de desarrolladores comprometidos con el **código a
 
 ### 🌱 Nuestro Origen
 
-**AmoxcalliDev** es la extensión **Open Source** de [**ByFruitsDev**](https://github.com/ByFruitsDev) 🥭🍎🍊
+**Amoxcalli** es la extensión **Open Source** de [**ByFruits**](https://byfruits.dev) 🥭🍇🍍🍉
 
-Mientras que en **ByFruitsDev** trabajamos con clientes y proyectos comerciales, **AmoxcalliDev** es nuestro compromiso con la comunidad:
+Mientras que en **ByFruits** trabajamos con clientes y proyectos comerciales, **Amoxcalli** es nuestro compromiso con la comunidad:
 
-- 🏢 **ByFruitsDev**: Proyectos con clientes, soluciones empresariales
-- 🏛️ **AmoxcalliDev**: Código abierto, conocimiento compartido, comunidad
+- 🏢 **ByFruits**: Proyectos con clientes, soluciones empresariales
+- 🏛️ **Amoxcalli**: Código abierto, conocimiento compartido, comunidad
 
-Creemos que lo que aprendemos trabajando con clientes debe regresar a la comunidad. Por eso creamos AmoxcalliDev: para devolver, enseñar y construir juntos.
+Creemos que lo que aprendemos trabajando con clientes debe regresar a la comunidad. Por eso creamos Amoxcalli: para devolver, enseñar y construir juntos.
 
 ### 🎯 ¿Qué Hacemos Aquí?
 
-**AmoxcalliDev** es tu casa digital para:
+**Amoxcalli** es tu casa digital para:
 - 💻 Colaborar en proyectos **Open Source** 
 - 🚀 Aprender y enseñar nuevas tecnologías
 - 🤝 Conectar con developers mexicanos y de habla hispana
@@ -99,7 +99,7 @@ Aquí todos somos bienvenidos. Respeto, colaboración y buena onda son obligator
 
 ## 🤝 Contribuidores
 
-Gracias a todos los que hacen posible AmoxcalliDev:
+Gracias a todos los que hacen posible Amoxcalli con su tiempo, código y buena onda. ¡Ustedes son la verdadera magia! ✨
 
 <div align="center">
 
