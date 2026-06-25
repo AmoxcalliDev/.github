@@ -103,7 +103,7 @@ Gracias a todos los que hacen posible Amoxcalli con su tiempo, código y buena o
 
 <div align="center">
 
-[![Contributors](https://img.shields.io/github/contributors/AmoxcalliDev/.github?style=for-the-badge)](https://github.com/AmoxcalliDev)
+[![Contributors](https://badges.amoxcalli.dev/api/v1/github/badge/contributors/AmoxcalliDev)](https://github.com/AmoxcalliDev)
 
 **¿Quieres ver tu nombre aquí? ¡Mándalo con tus contribuciones!**
 
